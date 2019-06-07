@@ -6,4 +6,5 @@ def batch_badge_creator(some_array)
   some_array = ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
 end
 
-def assign_rooms
+def assign_rooms()
+  puts "Hello, 
