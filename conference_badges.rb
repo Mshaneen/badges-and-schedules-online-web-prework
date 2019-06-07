@@ -19,3 +19,4 @@ def assign_rooms(array)
   end
   return nuarray
 end
+
